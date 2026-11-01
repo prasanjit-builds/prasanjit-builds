@@ -36,7 +36,7 @@ engineering work.
 
 <table>
 <tr>
-<td width="60%" valign="middle">
+<td width="58%" valign="top">
 
 <h3>☁️ Cloud & Infrastructure</h3>
 
@@ -45,19 +45,6 @@ engineering work.
 </p>
 
 <p>AWS · Microsoft Azure · Terraform · Reusable infrastructure modules</p>
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="./cloud-platform.gif" alt="Animated Terraform, AWS, Azure and Kubernetes infrastructure illustration" width="320">
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="60%" valign="top">
 
 <h3>⚙️ CI/CD & Version Control</h3>
 
@@ -75,34 +62,21 @@ engineering work.
 
 <p>Docker · Kubernetes · GitOps · Deployment automation</p>
 
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="./devops-delivery.gif" alt="Animated source, build, deployment and observability pipeline" width="320">
-
-</td>
-</tr>
-</table>
-
-### 🐧 Scripting & Observability
+<h3>🐧 Scripting & Observability</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,bash,linux,grafana&perline=4" alt="Python, Bash, Linux, Grafana">
 </p>
 
-Python · Bash · Linux · Grafana · Application and infrastructure monitoring
+<p>Python · Bash · Linux · Grafana · Application and infrastructure monitoring</p>
 
-### 💻 Programming Languages & Frameworks
+<h3>💻 Programming Languages & Frameworks</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,dotnet&perline=3" alt="Python, Java, .NET">
 </p>
 
-Python · Java · .NET
-
-<table>
-<tr>
-<td width="60%" valign="top">
+<p>Python · Java · .NET</p>
 
 <h3>🧠 AI Assistants</h3>
 
@@ -137,9 +111,34 @@ Python · Java · .NET
 <p>GitHub Copilot · Cursor</p>
 
 </td>
-<td width="40%" align="center" valign="middle">
 
-<img src="./ai-workflows.gif" alt="Animated knowledge retrieval, RAG, AI assistant and MCP tool workflow" width="320">
+<td width="4%">
+&nbsp;&nbsp;&nbsp;
+</td>
+
+<td width="38%" valign="top" align="center">
+
+<h3>☁️ Cloud Platform</h3>
+
+<p>
+  <img src="./cloud-platform.gif" alt="Animated Terraform, AWS, Azure and Kubernetes infrastructure" width="320">
+</p>
+
+<br><br>
+
+<h3>⚙️ Delivery Pipeline</h3>
+
+<p>
+  <img src="./devops-delivery.gif" alt="Animated source, build, deployment and observability pipeline" width="320">
+</p>
+
+<br><br>
+
+<h3>🤖 AI Workflows</h3>
+
+<p>
+  <img src="./ai-workflows.gif" alt="Animated knowledge retrieval, RAG, AI assistant and MCP workflow" width="320">
+</p>
 
 </td>
 </tr>
