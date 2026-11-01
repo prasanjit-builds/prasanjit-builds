@@ -176,5 +176,7 @@ GitOps, and AI automation.
 ---
 
 <p align="center">
-  Thanks for visiting 👋
+  <img src="./welcome-prasanjit.gif"
+       alt="Prasanjit's animated walk-and-wave greeting"
+       width="900">
 </p>
