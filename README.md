@@ -78,13 +78,15 @@ Python · Java · .NET
 
 <p>
   <a href="https://chatgpt.com/">
-    <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" alt="ChatGPT" width="48" height="48">
   </a>
+  &nbsp;&nbsp;
   <a href="https://claude.ai/">
-    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" alt="Claude" width="48" height="48">
   </a>
+  &nbsp;&nbsp;
   <a href="https://gemini.google.com/">
-    <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" alt="Gemini" width="48" height="48">
   </a>
 </p>
 
@@ -94,10 +96,11 @@ ChatGPT · Claude · Gemini
 
 <p>
   <a href="https://github.com/features/copilot">
-    <img src="https://img.shields.io/badge/GitHub_Copilot-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
+    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/githubcopilot.svg" alt="GitHub Copilot" width="48" height="48">
   </a>
+  &nbsp;&nbsp;
   <a href="https://cursor.com/">
-    <img src="https://img.shields.io/badge/Cursor-181818?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
+    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" alt="Cursor" width="48" height="48">
   </a>
 </p>
 
@@ -105,7 +108,9 @@ GitHub Copilot · Cursor
 
 ### 🤖 AI Automation
 
-AI-powered developer tools · MCP integrations · Agent workflows
+| 🤖 AI-Powered Developer Tools | 🔌 MCP Integrations | 📚 RAG | ⚙️ Agent Workflows |
+| :---: | :---: | :---: | :---: |
+| Tools for engineering tasks | Connecting AI to tools and data | Retrieval-Augmented Generation | Automating multi-step tasks |
 
 ## 🔭 Current focus
 
