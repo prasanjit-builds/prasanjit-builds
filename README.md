@@ -66,6 +66,43 @@ Docker · Kubernetes · GitOps · Deployment automation
 
 Python · Bash · Linux · Grafana · Application and infrastructure monitoring
 
+### 💻 Programming Languages & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,dotnet&perline=3" alt="Python, Java, .NET">
+</p>
+
+Python · Java · .NET
+
+### 🧠 AI Assistants
+
+<p>
+  <a href="https://chatgpt.com/">
+    <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+  </a>
+  <a href="https://claude.ai/">
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+  </a>
+  <a href="https://gemini.google.com/">
+    <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+  </a>
+</p>
+
+ChatGPT · Claude · Gemini
+
+### 🧑‍💻 AI Coding Tools
+
+<p>
+  <a href="https://github.com/features/copilot">
+    <img src="https://img.shields.io/badge/GitHub_Copilot-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
+  </a>
+  <a href="https://cursor.com/">
+    <img src="https://img.shields.io/badge/Cursor-181818?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
+  </a>
+</p>
+
+GitHub Copilot · Cursor
+
 ### 🤖 AI Automation
 
 AI-powered developer tools · MCP integrations · Agent workflows
