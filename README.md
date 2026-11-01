@@ -34,29 +34,55 @@ engineering work.
 
 ## 🛠️ Tools & technologies
 
-### ☁️ Cloud & Infrastructure
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+<h3>☁️ Cloud & Infrastructure</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,terraform&perline=3" alt="AWS, Microsoft Azure, Terraform">
 </p>
 
-AWS · Microsoft Azure · Terraform · Reusable infrastructure modules
+<p>AWS · Microsoft Azure · Terraform · Reusable infrastructure modules</p>
 
-### ⚙️ CI/CD & Version Control
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="./cloud-platform.gif" alt="Animated Terraform, AWS, Azure and Kubernetes infrastructure illustration" width="320">
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<h3>⚙️ CI/CD & Version Control</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github&perline=4" alt="GitHub Actions, Jenkins, Git, GitHub">
 </p>
 
-GitHub Actions · Azure DevOps · Jenkins · Git
+<p>GitHub Actions · Azure DevOps · Jenkins · Git</p>
 
-### 📦 Containers & Delivery
+<h3>📦 Containers & Delivery</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=2" alt="Docker and Kubernetes">
 </p>
 
-Docker · Kubernetes · GitOps · Deployment automation
+<p>Docker · Kubernetes · GitOps · Deployment automation</p>
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="./devops-delivery.gif" alt="Animated source, build, deployment and observability pipeline" width="320">
+
+</td>
+</tr>
+</table>
 
 ### 🐧 Scripting & Observability
 
@@ -74,7 +100,11 @@ Python · Bash · Linux · Grafana · Application and infrastructure monitoring
 
 Python · Java · .NET
 
-### 🧠 AI Assistants
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<h3>🧠 AI Assistants</h3>
 
 <p>
   <a href="https://chatgpt.com/">
@@ -90,9 +120,9 @@ Python · Java · .NET
   </a>
 </p>
 
-ChatGPT · Claude · Gemini
+<p>ChatGPT · Claude · Gemini</p>
 
-### 🧑‍💻 AI Coding Tools
+<h3>🧑‍💻 AI Coding Tools</h3>
 
 <p>
   <a href="https://github.com/features/copilot">
@@ -104,7 +134,16 @@ ChatGPT · Claude · Gemini
   </a>
 </p>
 
-GitHub Copilot · Cursor
+<p>GitHub Copilot · Cursor</p>
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="./ai-workflows.gif" alt="Animated knowledge retrieval, RAG, AI assistant and MCP tool workflow" width="320">
+
+</td>
+</tr>
+</table>
 
 ### 🤖 AI Automation
 
